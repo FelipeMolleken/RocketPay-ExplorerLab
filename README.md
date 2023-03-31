@@ -1,7 +1,7 @@
 <h1 align="center"> Explorer Lab - RocketPay </h1>
 
 <p align="center">
-Esse projeto foi feito em um evento exclusivo da Rocketseat, ele simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+Esse projeto foi feito em um evento da Rocketseat, ele simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 </p>
 <p align="center">Você pode acessar o projeto em seu navegador clicando <a href="https://rocketpay-explorer-lab-wheat.vercel.app/">aqui</a>
 
